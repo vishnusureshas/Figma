@@ -1,0 +1,31 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-img img{
+    width:100%;
+    height: 700px;
+    margin-top: 30px;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 2rem;
+    background-color: silver;
+    margin-bottom: 100px;
+    box-shadow: rgba(0,0,0,0.215)0px 5px 15px 0px;;
+    height: 200px;
+    width: 990px;
+} 
+
+.content-wrapper .num {
+    font-weight: bolder;
+}
+
+.content-wrapper .contents{
+    font-weight: bolder;
+}

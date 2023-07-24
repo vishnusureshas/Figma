@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content .para{
+    margin-right:800px ;
+}
+
+.content .para h2{
+    font-size: larger;
+    font-weight: bolder;
+    display: flex;
+}
+
+.learn-btn {
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+

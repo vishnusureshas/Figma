@@ -1,0 +1,31 @@
+.heading {
+    font-weight: bolder;
+}
+
+.title {
+    text-align: center;
+    justify-content: center;
+}
+
+.title h3{
+    font-weight: bolder;
+}
+
+.paragraph {
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.paragraph .para-btn {
+    width: 130px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.paragraph .para-btn:hover {
+    background-color: red;
+}

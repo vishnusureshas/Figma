@@ -1,0 +1,48 @@
+.footer {
+    padding: 50px 0px;
+    background-color: rgb(52, 129, 52);
+    width: 100%;
+    margin-top: auto;
+    color: white;
+}
+
+.footer-box h2{
+    margin-bottom: 50px;
+    font-weight:bolder;
+}
+.footer_wrapper {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   column-gap: 2rem;
+}
+
+.footer-title {
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.footer-box input {
+   border-radius: 10px;
+   margin-top: 10px;
+   width: 400px;
+}
+.footer-links li{
+    margin-top: 10px;
+
+    color: white;
+}
+
+.footer-links li a{
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.footer-links li a:hover{
+  color: blue;
+}
+
+
+
+

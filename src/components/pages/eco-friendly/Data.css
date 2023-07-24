@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.contentss{
+    background-color:rgb(167, 189, 211);
+    width: 100%;
+    height: 180px;
+}
+
+.contentss h3{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.contentss p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contentss input {
+   margin-left: 410px;
+   width: 400px;
+}
